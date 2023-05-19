@@ -1,0 +1,22 @@
+{
+  "name": "codeial",
+  "version": "1.0.0",
+  "description": "My all social media web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pawan-Ratwana/codeial.git"
+  },
+  "author": "Pawan Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pawan-Ratwana/codeial/issues"
+  },
+  "homepage": "https://github.com/Pawan-Ratwana/codeial#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
