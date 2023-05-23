@@ -7,11 +7,11 @@ const userSchema=new mongoose.Schema({
         unique: true    // unique is required because one user create or login only with one email
     },
     password:{
-        type: true,
+        type: String,
         require: true
     },
     name:{
-        type: true,
+        type: String,
         require: true
     }
 },{
